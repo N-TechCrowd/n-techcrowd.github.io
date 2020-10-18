@@ -482,8 +482,13 @@ nav.globalMenuSp.active {
     -webkit-transform: translateY(-50%) translateX(-50%);
   }
 .section4-box {
-    margin-right: auto;
-    bottom: 56px;
+  margin: 0px 0% 0px 0;
+  width: 769px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateY(-50%) translateX(-50%);
+  -webkit-transform: translateY(-50%) translateX(-50%);
   }
 
   .sp-only {
